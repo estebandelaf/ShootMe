@@ -75,7 +75,7 @@ Se agregarán más objetos en el futuro.
 Formato de archivos de texto plano
 ----------------------------------
 
-# Archivo de objetos del mapa: mapobjects.conf
+### Archivo de objetos del mapa: mapobjects.conf
 
 Columnas:
 
@@ -88,7 +88,7 @@ Ejemplo:
 
 	w water 0 1
 
-# Archivo armas: weapons.conf
+### Archivo armas: weapons.conf
 
 Columnas:
 
@@ -102,7 +102,7 @@ Ejemplo:
 
 	1 knife 5 200 200
 
-# Archivo mapas
+### Archivo mapas
 
 Se recomienda revisar el mapa de ejemplo 01.txt, se utilizan los objetos del
 mapa definidos en mapobjects.conf
